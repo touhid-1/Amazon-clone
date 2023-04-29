@@ -1,4 +1,4 @@
-In server>install npm for downloading packages
+In server>install npm for downloading packages..
 In client folder> install npm for downloading packages
 
 signIn in user for auth in firebase
