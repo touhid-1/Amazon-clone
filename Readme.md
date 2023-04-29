@@ -1,7 +1,7 @@
 In server>install npm for downloading packages..
 In client folder> install npm for downloading packages
 
-signIn in user for auth in firebase
+signnedIn user for auth in firebase
 email:touhidsaleem1@gmail.com
 password:123456
 
